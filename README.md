@@ -21,7 +21,7 @@ Pasos para su ejecución
 
 Clonar o descargar el código fuente:
 
-git clone https://github.com/tu_usuario/conversor-monedas-c.git
+git clone https://github.com/jmeono/Actividad3_c.git
 cd conversor-monedas-c
 
 Compilar el código fuente:
